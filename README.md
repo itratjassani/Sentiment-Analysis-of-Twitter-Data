@@ -43,7 +43,7 @@ It is the classification of the polarity of a given text in the document, senten
 
 ## Process Flow
 
-![image](https://github.com/itratjassani/Sentiment-Analysis-of-Twitter-Data-Project/assets/35358807/840e97e4-1560-4955-9bb5-ce160cc44429)
+![image](https://github.com/itratjassani/Sentiment-Analysis-of-Twitter-Data/assets/35358807/17bfa7b0-27b7-4c0d-882d-cac8027b670d)
 
 ## Approach
 ### Tweet Dataset
@@ -71,12 +71,13 @@ It is the classification of the polarity of a given text in the document, senten
 ### Principle of Naive Bayes Classifier
 A Naive Bayes classifier is a probabilistic machine learning model that’s used for classification tasks. The crux of the classifier is based on the Bayes theorem.
 
-* ![image](https://github.com/itratjassani/Sentiment-Analysis-of-Twitter-Data-Project/assets/35358807/456b1aff-245e-4947-a39f-c3d0788785ec)
+* ![image](https://github.com/itratjassani/Sentiment-Analysis-of-Twitter-Data/assets/35358807/a5592361-6fb8-41fd-afb5-ccc873927c30)
+
   
 Using Bayes theorem, we can find the probability of A happening, given that B has occurred. Here, B is the evidence and A is the hypothesis. The assumption made here is that the predictors/features are independent. That is presence of one particular feature does not affect the other. Hence it is called naive.
 
 ## Results (Qualitative Evaluation)
-![image](https://github.com/itratjassani/Sentiment-Analysis-of-Twitter-Data-Project/assets/35358807/57b5cf25-4bbc-4fda-9dbe-3077ff8b019b)
+![image](https://github.com/itratjassani/Sentiment-Analysis-of-Twitter-Data/assets/35358807/4140e6e9-8294-44a2-add0-18b50f0a5dc2)
 
 ## Conclusion 
 * Evaluating the classification accuracy of the predictions from the model confirms that the model performs as expected, achieving a score of 99%.
